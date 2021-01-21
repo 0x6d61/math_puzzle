@@ -1,3 +1,4 @@
+#情報欠けてる気がするw
 man, women = 21, 11
 list = Array.new(man * women) { 0 }
 list[0] = 1
